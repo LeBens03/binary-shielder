@@ -1,0 +1,21 @@
+# Typescript
+node_modules/
+package-lock.json
+dist/
+
+# Generated code
+src/lib/*.ts
+src/lib/*.interp
+src/lib/*.tokens
+!src/lib/SmaliPrinter.ts
+!src/lib/SmaliWriter.ts
+!src/lib/AndroidManifest.ts
+app-debug_decompiled
+app-debug_modified.apk
+
+# Working file
+app/
+/*.smali
+
+# IDE
+.idea
