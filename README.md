@@ -3,7 +3,7 @@
 > [!WARNING]  
 > **Binary Shielder** est voué à être utilisé dans un cours d'informatique, et n'est pas un véritable outil.
 
-Le **Binary Shielder** est un template pour créer un POC de shielder pour code binaire. Il contient un projet _TypeScript_ préconfiguré.
+Le **Binary Shielder** est un template crée par Louis Parent pour créer un POC de shielder pour code binaire. Il contient un projet _TypeScript_ préconfiguré.
 
 ## ⚡ Démarrage Rapide
 
